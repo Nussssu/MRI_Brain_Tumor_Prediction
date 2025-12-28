@@ -61,5 +61,4 @@ and should **not** be used for clinical diagnosis.
 ## 👩‍💻 Author
 
 **Nusrat Jahan Ankhi**  
-Department of Computer Science  
-Deep Learning & Medical Image Analysis
+Department of Computer Science 
